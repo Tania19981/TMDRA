@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 15,
+    "height" : 9
+  }, {
+    "width" : 30,
+    "height" : 18
+  }, {
+    "width" : 60,
+    "height" : 36
+  }, {
+    "width" : 119,
+    "height" : 71
+  }, {
+    "width" : 237,
+    "height" : 142
+  }, {
+    "width" : 474,
+    "height" : 284
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 474,
+  "@id" : "https://Tania19981.github.io/TMDRA/images/test",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 284
+}
