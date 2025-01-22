@@ -1,0 +1,13 @@
+{
+  "id" : "https://Tania19981.github.io/TMDRA/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Tania19981/TMDRA project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Tania19981.github.io/TMDRA/manifests/manifest1.json",
+    "label" : "manifest1"
+  } ]
+}
